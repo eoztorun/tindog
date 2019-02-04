@@ -1,1 +1,1 @@
-TinDog is a single-page static website. Built using HTML, CSS, and Bootstrap v4.2.
+TinDog is a single-page static website. Built using HTML5, CSS3, and Bootstrap v4.2.
